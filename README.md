@@ -25,6 +25,7 @@ Set of projects required to pass the class.
 │   └── tests
 │       ├── cases.py
 │       └── test_augmented_form.py
+│
 ├── lab-02-simplex
 │   ├── GRADE.md
 │   ├── HELP.md
@@ -46,6 +47,7 @@ Set of projects required to pass the class.
 │   │       ├── solver.py
 │   │       └── tableaux.py
 │   └── test.py
+│
 ├── lab-03-two-phase-simplex
 │   ├── GRADE.md
 │   ├── README.md
@@ -70,6 +72,7 @@ Set of projects required to pass the class.
 │   │       └── tableaux.py
 │   └── tests
 │       └── test_two_phase_simplex_offline.py
+│
 ├── lab-04-assignment-problem
 │   ├── GRADE.htm
 │   ├── GRADE.md
@@ -103,6 +106,7 @@ Set of projects required to pass the class.
 │   │       ├── solver.py
 │   │       └── tableaux.py
 │   └── test.py
+│
 ├── lab-05-critical-path
 │   ├── GRADE.md
 │   ├── README.md
@@ -135,6 +139,7 @@ Set of projects required to pass the class.
 │   │       └── tableaux.py
 │   └── tests
 │       └── test_critical_path_offline.py
+│
 ├── lab-06-knapsack-problem
 │   ├── GRADE.md
 │   ├── README.md
@@ -172,6 +177,7 @@ Set of projects required to pass the class.
 │       ├── test_bnb_dfs.py
 │       ├── test_dynamic.py
 │       └── test_greedy.py
+│
 └── lab-07-integer-programming
     ├── GRADE.md
     ├── README.md
